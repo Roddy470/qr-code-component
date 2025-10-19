@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 
 ### Useful resources
-- [Google Fonts](https://www.example.com) - I used this to get the particular fonts needed for this project.
+- [Google Fonts](https://www.example.com) - I used this to get the particular fonts needed for this challenge.
 
 ## Author
 - Frontend Mentor - [@Roddy470](https://www.frontendmentor.io/profile/Roddy470)
